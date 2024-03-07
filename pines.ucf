@@ -1,0 +1,30 @@
+#Salidas
+net "SX(0)" loc = "R9";
+net "SX(1)" loc = "R8";
+net "SY(0)" loc = "R13";
+net "SY(1)" loc = "P13";
+net "s1" loc = "C1";
+net "s2" loc = "E1";
+#Entradas vry
+net "clock" loc = "E7";
+net "VRY(0)" loc = "E14";
+net "VRY(1)" loc = "C14";
+net "VRY(2)" loc = "A13";
+net "VRY(3)" loc = "C11";
+net "VRY(4)" loc = "A10";
+net "VRY(5)" loc = "B9";
+net "VRY(6)" loc = "A7";
+net "VRY(7)" loc = "B5";
+net "VRY(8)" loc = "A4";
+net "VRY(9)" loc = "C2";
+#VRX
+net "VRX(0)" loc = "E15";
+net "VRX(1)" loc = "C15";
+net "VRX(2)" loc = "B14";
+net "VRX(3)" loc = "A12";
+net "VRX(4)" loc = "B11";
+net "VRX(5)" loc = "A9";
+net "VRX(6)" loc = "B7";
+net "VRX(7)" loc = "A6";
+net "VRX(8)" loc = "C5";
+net "VRX(9)" loc = "A3";
